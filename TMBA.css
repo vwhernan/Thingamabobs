@@ -3,8 +3,8 @@
 }
 
 h6 {
-  font-family: sofia;
-  font-size: 16pt;
+  font-family: "Emilys Candy";
+  font-size: 14pt;
   text-align: center;
   margin: 0;
   font-weight: lighter;
@@ -67,6 +67,7 @@ footer {
   text-align: center;
   font-size: 20pt;
   font-family: "Bagel Fat One", sans-serif;
+  font-weight: lighter;
 }
 
 #leftside > ul > li {
@@ -92,24 +93,19 @@ footer {
   overflow-y: scroll;
 }
 
-section#rightside h1 {
-  text-align: Center;
-  margin: 0;
-  font-family: "Bagel Fat One", sans-serif;
-}
 #rightside dt {
   display: block;
-  font-family: cursive;
+  font-family: "Emilys Candy";
   margin-left: 30px;
   margin-top: 5px;
   text-indent: 0;
   font-weight: bold;
-  font-size: 18pt;
+  font-size: 16pt;
   border-bottom: 1px solid #f1c4c9;
 }
 #rightside dd {
   display: block;
-  font-family: "sofia";
+  font-family: "Emilys Candy";
   font-size: 14pt;
   margin: 1% 0 0 0;
   text-indent: 0;
@@ -124,7 +120,7 @@ section#rightside h1 {
 #rightside > p {
   margin-top: 0;
   margin-bottom: 25px;
-  font-family: "Sofia";
+  font-family: "Emilys Candy";
   color: #1e162d;
 }
 
@@ -164,4 +160,11 @@ section#rightside h1 {
   margin: 0px;
   padding-top: 0px;
   padding-bottom: 2px;
+}
+
+section#rightside h1 {
+  text-align: Center;
+  margin: 0;
+  font-family: "Emilys Candy", sans-serif;
+  font-weight: Bolder;
 }
